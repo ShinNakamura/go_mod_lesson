@@ -90,3 +90,7 @@ Go Wiki Modules > Quick start https://github.com/golang/go/wiki/Modules#quick-st
 
 
 ローカル環境のみでの Go Modules と自作パッケージ https://qiita.com/tkj06/items/a5f79417935100045650
+
+## 関連記事
+
+Go mod コードをパッケージにわける https://note.com/kokoronopython/n/necc0eea74035

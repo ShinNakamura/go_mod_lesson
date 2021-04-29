@@ -64,7 +64,7 @@ foo.go は package foo とし、Foo という関数をエクスポートして�
 (※ 関数の先頭が大文字になっていることに注目。)
 
 これを main.go 内で foo.Foo として使いたい。
-この場合、main.go 内の import ブロックの中に "github.com/username/project_name/foo" を含めれば良い。
+この場合、main.go 内の import ブロックの中に `github.com/username/project_name/foo` を含めれば良い。
 
 ```go
 package main

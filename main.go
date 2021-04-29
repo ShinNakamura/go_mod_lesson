@@ -7,4 +7,5 @@ import (
 func main() {
 	foo.Foo()
 	foo.Bar()
+	Baz()
 }
